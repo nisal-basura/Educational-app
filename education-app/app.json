@@ -1,9 +1,9 @@
 {
   "expo": {
     "name": "education-app",
-    "slug": "education",
+    "slug": "education-app",
     "version": "1.0.0",
-    "scheme":"Education",
+    "scheme":"codebox",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
